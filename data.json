@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xeEf4509D935D0f8A8F9Bb508A405AA2Ce04F7b38"
+    },
+    {
+      "id": 2,
+      "name": "Rate in BNB",
+      "value": "300000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "0xFactory Presale"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "ZXF is the native token that powers the thriving ecosystem of 0xFactory. ZXF plays a pivotal role in facilitating and enhancing the functionality of our platform, enabling users to fully engage with the innovative features and services we offer."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "ZeroX Factory"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x53a3bE470d8B8255c9Ed5015C5b953F574b2Ce86"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "ZXF"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "1000000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "300000000"
+    },
+    {
+      "id": 11,
+      "name": "Presale Start Time",
+      "value": "2023.07.01 15:00 (UTC)"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2023.08.01 15:00 (UTC)"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "7"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0xB61a6DF7A2d95d3870193aa859E26AE5Cc1a89Fd"
+    }
+    
+  ]
+  
